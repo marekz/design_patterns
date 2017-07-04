@@ -1,1 +1,1 @@
-# project_patterns
+# Wzorce projektowe
