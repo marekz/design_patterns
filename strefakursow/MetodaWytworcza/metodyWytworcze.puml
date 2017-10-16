@@ -1,0 +1,14 @@
+@startuml
+
+
+
+(Klient)-up->(Fabryka pojazdów)
+
+(Fabryka pojazdów)-up->(Fabryka rowerów)
+(Fabryka pojazdów)-up->(Fabryka samochodów)
+
+
+(Fabryka samochodów)-up->(Samochód)
+(Fabryka rowerów)-up->(Rower)
+
+@enduml
