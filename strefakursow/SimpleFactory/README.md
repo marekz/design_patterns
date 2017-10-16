@@ -1,6 +1,6 @@
-#Prosta fabryka na podstawie strefakursow
+# Prosta fabryka na podstawie strefakursow
 
-###CarFactory
+### CarFactory
 
 - CarFactory jest jest klasą służącą do tworzenia gotowych obiektów.
 Zawiera ona statyczną funkcję createCar ponieważ nie chcemy budować nowej 
