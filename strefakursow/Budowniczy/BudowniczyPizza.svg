@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="281px" preserveAspectRatio="none" style="width:144px;height:281px;" version="1.1" viewBox="0 0 144 281" width="144px" zoomAndPan="magnify">
+    <defs>
+        <filter height="300%" id="fzcuhcl4xtze5" width="300%" x="-1" y="-1">
+            <feGaussianBlur result="blurOut" stdDeviation="2.0"/>
+            <feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/>
+            <feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/>
+            <feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/>
+        </filter>
+    </defs>
+    <g>
+        <!--class Klient-->
+        <rect fill="#FEFECE" filter="url(#fzcuhcl4xtze5)" height="48" style="stroke: #A80036; stroke-width: 1.5;" width="66" x="37.5" y="8"/>
+        <ellipse cx="52.5" cy="24" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M55.4688,29.6406 Q54.8906,29.9375 54.25,30.0859 Q53.6094,30.2344 52.9063,30.2344 Q50.4063,30.2344 49.0859,28.5859 Q47.7656,26.9375 47.7656,23.8125 Q47.7656,20.6875 49.0859,19.0313 Q50.4063,17.375 52.9063,17.375 Q53.6094,17.375 54.2578,17.5313 Q54.9063,17.6875 55.4688,17.9844 L55.4688,20.7031 Q54.8438,20.125 54.25,19.8516 Q53.6563,19.5781 53.0313,19.5781 Q51.6875,19.5781 51,20.6484 Q50.3125,21.7188 50.3125,23.8125 Q50.3125,25.9063 51,26.9766 Q51.6875,28.0469 53.0313,28.0469 Q53.6563,28.0469 54.25,27.7734 Q54.8438,27.5 55.4688,26.9219 L55.4688,29.6406 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="34" x="66.5" y="28.1543">Klient</text>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="38.5" x2="102.5" y1="40" y2="40"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="38.5" x2="102.5" y1="48" y2="48"/>
+        <!--class BudowniczyPizzy-->
+        <rect fill="#FEFECE" filter="url(#fzcuhcl4xtze5)" height="48" style="stroke: #A80036; stroke-width: 1.5;" width="129" x="6" y="116"/>
+        <ellipse cx="21" cy="132" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M23.9688,137.6406 Q23.3906,137.9375 22.75,138.0859 Q22.1094,138.2344 21.4063,138.2344 Q18.9063,138.2344 17.5859,136.5859 Q16.2656,134.9375 16.2656,131.8125 Q16.2656,128.6875 17.5859,127.0313 Q18.9063,125.375 21.4063,125.375 Q22.1094,125.375 22.7578,125.5313 Q23.4063,125.6875 23.9688,125.9844 L23.9688,128.7031 Q23.3438,128.125 22.75,127.8516 Q22.1563,127.5781 21.5313,127.5781 Q20.1875,127.5781 19.5,128.6484 Q18.8125,129.7188 18.8125,131.8125 Q18.8125,133.9063 19.5,134.9766 Q20.1875,136.0469 21.5313,136.0469 Q22.1563,136.0469 22.75,135.7734 Q23.3438,135.5 23.9688,134.9219 L23.9688,137.6406 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="97" x="35" y="136.1543">BudowniczyPizzy</text>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="134" y1="148" y2="148"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="7" x2="134" y1="156" y2="156"/>
+        <!--class Pizza-->
+        <rect fill="#FEFECE" filter="url(#fzcuhcl4xtze5)" height="48" style="stroke: #A80036; stroke-width: 1.5;" width="61" x="40" y="224"/>
+        <ellipse cx="55" cy="240" fill="#ADD1B2" rx="11" ry="11" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M57.9688,245.6406 Q57.3906,245.9375 56.75,246.0859 Q56.1094,246.2344 55.4063,246.2344 Q52.9063,246.2344 51.5859,244.5859 Q50.2656,242.9375 50.2656,239.8125 Q50.2656,236.6875 51.5859,235.0313 Q52.9063,233.375 55.4063,233.375 Q56.1094,233.375 56.7578,233.5313 Q57.4063,233.6875 57.9688,233.9844 L57.9688,236.7031 Q57.3438,236.125 56.75,235.8516 Q56.1563,235.5781 55.5313,235.5781 Q54.1875,235.5781 53.5,236.6484 Q52.8125,237.7188 52.8125,239.8125 Q52.8125,241.9063 53.5,242.9766 Q54.1875,244.0469 55.5313,244.0469 Q56.1563,244.0469 56.75,243.7734 Q57.3438,243.5 57.9688,242.9219 L57.9688,245.6406 Z "/>
+        <text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="29" x="69" y="244.1543">Pizza</text>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="41" x2="100" y1="256" y2="256"/>
+        <line style="stroke: #A80036; stroke-width: 1.5;" x1="41" x2="100" y1="264" y2="264"/>
+        <path d="M70.5,56 C70.5,72.003 70.5,93.446 70.5,110.528 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="70.5,115.678,74.5,106.678,70.5,110.678,66.5,106.678,70.5,115.678" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <path d="M70.5,164 C70.5,180.003 70.5,201.4461 70.5,218.528 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <polygon fill="#A80036" points="70.5,223.6784,74.5,214.6784,70.5,218.6784,66.5,214.6784,70.5,223.6784" style="stroke: #A80036; stroke-width: 1.0;"/>
+        <!--
+@startuml
+
+class Klient
+class BudowniczyPizzy
+class Pizza
+
+Klient -down-> BudowniczyPizzy
+
+BudowniczyPizzy -down-> Pizza
+
+@enduml
+
+PlantUML version 2017.11(Wed Apr 19 18:18:59 CEST 2017)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_144-b01
+Operating System: Linux
+OS Version: 4.4.0-98-generic
+Default Encoding: UTF-8
+Language: pl
+Country: PL
+-->
+    </g>
+</svg>

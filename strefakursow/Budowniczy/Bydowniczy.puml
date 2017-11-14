@@ -1,0 +1,11 @@
+@startuml
+
+class Klient
+class BudowniczyPizzy
+class Pizza
+
+Klient -down-> BudowniczyPizzy
+
+BudowniczyPizzy -down-> Pizza
+
+@enduml
